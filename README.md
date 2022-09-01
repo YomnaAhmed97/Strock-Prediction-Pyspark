@@ -8,14 +8,25 @@
 
 ### Column names and data types are as follow:
 . id, integer.
+
 . gender, string.
+
 . age, double.
+
 . hypertension, integer.
+
 . heart_disease, integer.
+
 . ever_married, string.
+
 . work_type, string.
+
 . Residence_type, string.
+
 . avg_glucose_level, double.
+
 . bmi, double.
+
 . smoking_status, string.
+
 . stroke, integer (Target Label). If the person has stroke the stroke label value is "1" otherwise "0".
