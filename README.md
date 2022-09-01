@@ -5,6 +5,7 @@
 
 ### Data:
 - Data is provided in csv format in a file named <b>healthcare-dataset-stroke-data.csv</b>
+  viewing dataset on https://docs.google.com/spreadsheets/d/11mFffTezZ0l_cNXliQMwlvWEGM_JceWa8tEz5oBm-vg/edit?usp=sharing
 
 ### Column names and data types are as follow:
 . id, integer.
